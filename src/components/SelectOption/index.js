@@ -5,7 +5,9 @@ import './styles.css'
 class SelectOption extends React.Component {
     render(){
         return (
-            <div class="ball">
+            <div>
+                <div className="ball"></div>
+                <h3>Brigadeiro</h3>
             </div>
         )
     }

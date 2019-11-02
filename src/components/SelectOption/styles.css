@@ -3,4 +3,12 @@
     content: url(./images/brigadeiro.jpg);
     display: flex;
     margin: 2%;
+    padding: 0 15%;
+}
+
+h3 {
+    text-align: center;
+    color: floralwhite;
+    margin: 0;
+    padding: 0 15%;
 }
