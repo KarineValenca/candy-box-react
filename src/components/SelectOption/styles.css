@@ -1,0 +1,6 @@
+.ball {
+    border-radius: 50%;
+    content: url(./images/brigadeiro.jpg);
+    display: flex;
+    margin: 2%;
+}
